@@ -220,15 +220,15 @@ Fish Book is designed as an extensible analytics project rather than a finished 
 
 Potential future development includes:
 
--Expanding the session and catch dataset through continued use
--Analyzing catch success relative to targeted species
--Developing species-specific fishability scoring using accumulated catch history
--Improving location-specific tide predictions and modeling
--Migrating the CSV-based data layer to a relational or cloud database
--Automating scheduled environmental data ingestion and refreshes
--Deploying the Streamlit application for remote session and catch entry
--Supporting multiple user profiles and social connections between anglers
--Expanding geographic coverage beyond Los Angeles County
+- Expanding the session and catch dataset through continued use
+- Analyzing catch success relative to targeted species
+- Developing species-specific fishability scoring using accumulated catch history
+- Improving location-specific tide predictions and modeling
+- Migrating the CSV-based data layer to a relational or cloud database
+- Automating scheduled environmental data ingestion and refreshes
+- Deploying the Streamlit application for remote session and catch entry
+- Supporting multiple user profiles and social connections between anglers
+- Expanding geographic coverage beyond Los Angeles County
 
 ---
 
