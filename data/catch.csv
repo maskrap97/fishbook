@@ -1,0 +1,15 @@
+CatchID,SessionID,CatchDateTime,SpeciesID,LengthIn,WeightLb,OfferingType,Bait,LureSizeIn,LureColor,Rig,LureType,BrandModel,Released,CatchNotes
+C001,S001,7/11/2026 6:42 AM,YFC,12.0,,Lure,,3.0,White,Dropshot,Fluke,Zoom Tiny Fluke,True,Caught near the inside trough on the rising tide.
+C002,S001,7/11/2026 7:18 AM,YFC,14.0,,Lure,,3.0,White,Dropshot,Fluke,Zoom Tiny Fluke,True,Second croaker from the same stretch after moving the lure slowly.
+C003,S001,7/11/2026 8:36 AM,YFC,15.0,,Lure,,3.0,White,Dropshot,Fluke,Zoom Tiny Fluke,True,"Largest croaker of the session, caught close to the morning high."
+C004,S002,7/14/2026 6:08 AM,CALICO,10.0,,Bait,Anchovy,,,Live Bait Rig,,,True,Short calico bass caught tight to jetty structure.
+C005,S002,7/14/2026 6:51 AM,CALICO,13.0,,Bait,Anchovy,,,Live Bait Rig,,,True,Second short calico bass on a live anchovy.
+C006,S002,7/14/2026 7:37 AM,SBB,16.0,,Bait,Anchovy,,,Live Bait Rig,,,True,Spotted bay bass caught along the harbor side of the jetty.
+C007,S002,7/14/2026 8:22 AM,SHOVEL,38.0,,Bait,Anchovy,,,Live Bait Rig,,,True,Shovelnose guitarfish caught as the incoming tide strengthened.
+C008,S004,7/17/2026 6:34 AM,HAL,18.0,,Lure,,4.5,Anchovy,Hard Jerkbait Retrieve,Jerkbait,Lucky Craft Flash Minnow 110,True,Short halibut caught shortly before the low.
+C009,S004,7/17/2026 7:16 AM,HAL,23.0,,Lure,,4.5,Anchovy,Hard Jerkbait Retrieve,Jerkbait,Lucky Craft Flash Minnow 110,False,Legal keeper caught near low slack; retained.
+C010,S005,2026-08-19 06:30:00,YFC,12.0,0.7,Bait,Sand Crab,,,Carolina,,,Yes,caught in shallow trough near bank
+C011,S005,2026-08-19 08:30:00,YFC,15.5,1.5,Lure,,4.5,Perch,Direct Tie,Jerkbait,Lucky Craft Flash Minnow 110,Yes,caught outside sandbar
+C012,S006,2026-08-19 19:30:00,BSP,9.0,0.5,Lure,,1.5,Motor Oil,Carolina,Grub,Big Hammer Grub,Yes,slow retrieve near the rocks
+C013,S006,2026-08-19 19:45:00,BSP,11.0,1.0,Lure,,1.5,Motor Oil,Carolina,Grub,Big Hammer Grub,Yes,caught on slow retrieve in shallow trough
+C014,S007,2026-08-02 07:00:00,YFC,15.0,1.25,Lure,,4.5,Perch,Direct Tie,Jerkbait,Lucky Craft Flash Minnow 110,Yes,

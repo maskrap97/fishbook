@@ -1,0 +1,26 @@
+SpeciesID,Common Name,Scientific Name,Category,Habitat,PatternID,ScoreSupported
+CORBINA,California Corbina,Menticirrhus undulatus,Surf Fish,Sandy surf zone,SURF,TRUE
+YFC,Yellowfin Croaker,Umbrina roncador,Surf Fish,Sandy beaches and shallow bays,SURF,TRUE
+SFC,Spotfin Croaker,Roncador stearnsii,Surf Fish,Sandy beaches and bays,SURF,TRUE
+BSP,Barred Surfperch,Amphistichus argenteus,Surfperch,Sandy surf zone,SURF,TRUE
+HALFMOON,Halfmoon,Medialuna californiensis,Reef Fish,Rocky reef and kelp,REEF,TRUE
+WSP,Walleye Surfperch,Hyperprosopon argenteum,Surfperch,"Sandy beaches, piers, and nearshore water",SURF,TRUE
+HAL,California Halibut,Paralichthys californicus,Flatfish,"Sandy beaches, bays, and nearshore flats",PRED,TRUE
+LEOPARD,Leopard Shark,Triakis semifasciata,Shark,"Sandy flats, bays, and nearshore beaches",SHARK,TRUE
+SHOVEL,Shovelnose Guitarfish,Pseudobatos productus,Guitarfish,Sandy beaches and bays,SHARK,TRUE
+RAY,Stingray/Bat Ray,Myliobatis californica,Ray,"Sandy beaches, bays, and flats",SHARK,TRUE
+CALICO,Calico Bass,Paralabrax clathratus,Bass,Rocky reef and kelp,REEF,TRUE
+BSB,Barred Sand Bass,Paralabrax nebulifer,Bass,"Rocky reef, sand-rock edges, and structure",REEF,TRUE
+SBB,Spotted Bay Bass,Paralabrax maculatofasciatus,Bass,"Bays, eelgrass, rock, and harbor structure",REEF,TRUE
+OPALEYE,Opaleye,Girella nigricans,Reef Fish,"Rocky shore, reef, and kelp",REEF,TRUE
+WSB,White Seabass,Atractoscion nobilis,Predatory Fish,"Surf zone, kelp edges, and nearshore water",PRED,TRUE
+BONITO,Bonito,Sarda chiliensis,Pelagic,Nearshore open water and bait schools,SURF,TRUE
+PMACK,Pacific Mackerel,Scomber japonicus,Pelagic,"Nearshore open water, piers, and bait schools",SURF,TRUE
+JMACK,Jack Mackerel,Trachurus symmetricus,Pelagic,Nearshore open water and bait schools,SURF,TRUE
+THRESHER,Thresher Shark,Alopias vulpinus,Shark,Nearshore and offshore open water,SHARK,TRUE
+SMOOTH,Smoothhound Shark,Mustelus californicus,Shark,"Sandy beaches, bays, and nearshore flats",SHARK,TRUE
+JACKSMELT,Jacksmelt,Atherinopsis californiensis,Baitfish / Pelagic,"Piers, harbors, bays, and nearshore water",SURF,TRUE
+GRUNION,Grunion,Leuresthes tenuis,Baitfish,Sandy beaches and nearshore water,,FALSE
+SARGO,Sargo,Anisotremus davidsonii,Surf / Reef Fish,"Sandy-rock edges, reef, and nearshore water",SURF,TRUE
+SHEEP,California Sheephead,Semicossyphus pulcher,Reef Fish,Rocky reef and kelp,REEF,TRUE
+STRIPED,Striped Bass,Morone saxatilis,Predatory Fish,"Surf zone, estuaries, and coastal water",SURF,TRUE

@@ -1,0 +1,15 @@
+Metric,Definition,Calculation,Viz,Data Source
+date,date of fishing,NA,slicer,Angler form
+time,time of day,NA,slicer,Angler form
+tide,height of tide at given time and date of fishing,NA,line chart,forecast API
+swell height,height of waves at given time and date of fishing,NA,line chart,forecast API
+swell period,time between swells at given time and date of fishing,NA,indicator,forecast API
+wave energy,strength of waves at given time and date of fishing,NA,bar chart,forecast API
+wind speed and direction,speed and direction of wind during given time and date of fishing,NA,indicator,forecast API
+species,species of fish caught,NA,slicer,Angler form
+bait/lure/rig,what lure or bait or rig was used to catch the fish,NA,hover ,Angler form
+cloud cover,was it sunny or cloudy on the day? was it raining?,NA,chart,forecast API
+beach/location,where was the fish caught? which beach was the fish caught at?,NA,slicer,Calculation
+total fish caught,"how many fish were caught within the given time frame and filter set? date range, location, species, etc.",SUM(fish caught),kpi,Calculation
+total species caught,"how many species have been caught within the filter set? Angler(s), date range, location, etc.",SUM(species caught),kpi,Calculation
+number of fish caught per session,"How many fish have been caught per session within the filter set? Location, date range, etc.",SUM(fish caught)/COUNT(fishing sessions),kpi,Calculation

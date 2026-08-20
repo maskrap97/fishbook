@@ -1,0 +1,58 @@
+LocationID,LocationName,Region,SortOrder,SwellExposureFactor,TideOffsetFt,TypicalSwellDirectionDeg,Latitude,Longitude
+SANTA_MONICA_JETTIES,Santa Monica Jetties,Santa Monica,1,1.08,-0.05,201,34.004,-118.49
+SANTA_MONICA_OCEAN_PARK,Santa Monica Ocean Park,Santa Monica,2,0.89,0,220,34,-118.488
+SANTA_MONICA_PIER,Santa Monica Pier,Santa Monica,3,0.88,-0.04,201,34.009,-118.499
+SANTA_MONICA_SAMO_20,Santa Monica Samo 20,Santa Monica,4,0.79,-0.03,192,34.006,-118.493
+SAPPHIRE_STREET,Sapphire Street,Malibu,5,1.08,0.12,224,33.826,-118.392
+SUNSET_BOULEVARD,Sunset Boulevard,Malibu,6,1.1,-0.09,226,34.034,-118.533
+TCS,TCs,Malibu,7,0.9,-0.08,231,33.719,-118.328
+TOES_OVER,Toes Over,Malibu,8,1.05,0.11,215,33.96,-118.46
+TOPANGA_POINT,Topanga Point,Malibu,9,0.93,-0.12,250,34.039,-118.579
+TOPAZ_STREET,Topaz Street,Malibu,10,0.92,0.11,239,33.824,-118.391
+TORRANCE_BEACH_BURN_OUT,Torrance Beach/Burn Out,South Bay / Palos Verdes,11,0.87,-0.11,233,33.807,-118.393
+TRANCAS_POINT,Trancas Point,Malibu,12,1.02,-0.06,224,34.038,-118.871
+VENICE_BREAKWATER,Venice Breakwater,Venice / Marina del Rey,13,0.84,-0.05,220,33.985,-118.475
+VENICE_PIER,Venice Pier,Venice / Marina del Rey,14,0.94,0.1,204,33.977,-118.469
+WALLYS,Wallys,Malibu,15,0.91,0.08,250,34.038,-118.885
+WESTWARD_BEACH_POINT_DUME,Westward Beach/Point Dume,Malibu,16,0.87,0.09,205,34.01,-118.815
+WILL_ROGERS,Will Rogers,Santa Monica,17,0.8,-0.14,218,34.031,-118.529
+ZERO,Zero,Malibu,18,1.01,0.05,260,34.04,-118.92
+ZUMA_BEACH,Zuma Beach,Malibu,19,0.95,0.11,200,34.019,-118.831
+INDICATOR,Indicator,Malibu,20,1,-0.09,193,33.79,-118.412
+JAPS_COVE,Japs Cove,Malibu,21,0.86,0.1,193,33.718,-118.337
+LATIGO_CANYON,Latigo Canyon,Malibu,22,0.85,-0.08,236,34.033,-118.755
+LATIGO_POINT,Latigo Point,Malibu,23,0.84,0.01,258,34.026,-118.754
+LEO_CARILLO_STATE_BEACH,Leo Carillo State Beach,Malibu,24,0.78,0,250,34.045,-118.934
+LUNADA_BAY,Lunada Bay,South Bay / Palos Verdes,25,0.8,0,232,33.772,-118.424
+MALIBU,Malibu,Malibu,26,0.98,0.07,258,34.033,-118.678
+MANHATTAN_26TH_STREET,Manhattan 26th street,South Bay,27,0.79,0.02,208,33.898,-118.419
+MANHATTAN_BEACH_AND_PIER,Manhattan Beach and Pier,South Bay,28,1.01,0.11,208,33.884,-118.413
+MARSHALLS,Marshalls,Malibu,29,1.07,0.07,224,33.775,-118.421
+NEW_JETTY,New Jetty,Malibu,30,0.81,0.08,196,33.92,-118.43
+PALOS_VERDE_BLUFF_COVE,Palos Verde - Bluff Cove,South Bay / Palos Verdes,31,0.86,-0.06,229,33.8,-118.419
+PIPE,Pipe,Malibu,32,1.04,-0.07,193,33.92,-118.43
+PIPES_TURBOS,Pipes Turbos,Malibu,33,1.05,0.05,233,33.78,-118.42
+POINT_DUME_LITTLE_DUME,Point Dume Little Dume,Malibu,34,1.02,0.05,194,34.006,-118.802
+RAT_BEACH,Rat Beach,South Bay / Palos Verdes,35,0.95,-0.09,246,33.805,-118.396
+REDONDO_THE_BREAKWATER,Redondo - The Breakwater,South Bay / Palos Verdes,36,1.11,0.08,219,33.842,-118.402
+REDONDO_BEACH,Redondo Beach,South Bay / Palos Verdes,37,1.09,-0.01,248,33.838,-118.391
+ROYAL_PALMS_STATE_BEACH,Royal Palms State Beach,South Bay / Palos Verdes,38,0.99,-0.08,250,33.717,-118.319
+64TH_PLACE,64th Place,South Bay / Palos Verdes,39,0.96,-0.15,240,33.76,-118.18
+72ND_PLACE,72nd Place,South Bay / Palos Verdes,40,0.79,0.04,226,33.74,-118.11
+ABALONE_COVE,Abalone Cove,South Bay / Palos Verdes,41,1.01,-0.09,197,33.738,-118.375
+BALLONA_CREEK_AND_JETTY,Ballona Creek and Jetty,Venice / Marina del Rey,42,1.02,-0.06,221,33.96,-118.456
+BAY_STREET,Bay Street,Santa Monica,43,0.96,-0.15,221,34.002,-118.489
+BEE_HIVES,Bee Hives,South Bay / Palos Verdes,44,1.02,-0.05,240,33.74,-118.4
+BURNOUT,Burnout,South Bay / Palos Verdes,45,0.93,-0.05,253,33.807,-118.393
+CABRILLO_POINT,Cabrillo Point,South Bay / Palos Verdes,46,0.91,0.11,243,33.706,-118.285
+CHART_HOUSE_RIGHTS,Chart House Rights,South Bay / Palos Verdes,47,1.11,0.06,215,33.792,-118.418
+D_AND_W,D and W,Malibu,48,0.81,-0.07,233,33.788,-118.416
+DOCKWEILER_BEACH,Dockweiler Beach,South Bay,49,0.88,-0.06,228,33.937,-118.441
+EL_PORTO_BEACH,El Porto Beach,South Bay,50,0.93,-0.08,219,33.903,-118.422
+EL_SEGUNDO_BEACH_JETTY,El Segundo Beach Jetty,South Bay,51,0.86,-0.02,253,33.916,-118.426
+EXILES,Exiles,South Bay / Palos Verdes,52,0.96,-0.15,260,33.764,-118.423
+GILLIS,Gillis,Malibu,53,1.08,-0.09,219,33.947,-118.445
+HAGGERTY_S,Haggerty's,South Bay / Palos Verdes,54,1.11,-0.06,208,33.816,-118.397
+HAMMERLAND,Hammerland,Malibu,55,0.81,0.15,193,33.846,-118.403
+HEAVENS,Heavens,Malibu,56,0.81,-0.11,251,34.04,-118.94
+HERMOSA_BEACH_AND_PIER,Hermosa Beach and Pier,South Bay,57,0.95,0.06,217,33.862,-118.405
