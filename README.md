@@ -188,7 +188,7 @@ Users can select a species to review its catch history, locations, average size,
 
 ![Fish Collection](docs/collection.png)
 
-➡️ [Download the Power BI Report](powerbi/FishBook.pbix)
+➡️ [Download the Power BI Report](powerbi/fishbook.pbix)
 
 ---
 
